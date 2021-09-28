@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e67d2dda-7cd3-4134-9c50-b35c05310288" name="Changes" comment="">
+      <change afterPath="D:/Ormgitproject1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="D:/Ormgitproject1/.idea/Ormgitproject1.iml" afterDir="false" />
+      <change afterPath="D:/Ormgitproject1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="D:/Ormgitproject1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="D:/Ormgitproject1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/Ormgitproject1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/Ormgitproject1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/Ormgitproject1/db.sqlite3" afterDir="false" />
+      <change afterPath="D:/Ormgitproject1/testapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="D:/Ormgitproject1/testapp/migrations/0002_contactinfo1_student1_teacher1.py" afterDir="false" />
+      <change afterPath="D:/Ormgitproject1/testapp/migrations/0003_child_parent_subchild.py" afterDir="false" />
+      <change afterPath="D:/Ormgitproject1/testapp/templates/testapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/restwithviewsets1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testapp/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testapp/serializers.py" afterDir="false" />
+      <change beforePath="D:/djangoOrmgitproject/db.sqlite3" beforeDir="false" afterPath="D:/djangoOrmgitproject/db.sqlite3" afterDir="false" />
+      <change beforePath="D:/djangoOrmgitproject/testapp/views.py" beforeDir="false" afterPath="D:/djangoOrmgitproject/testapp/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xtCXCqVB7NB1bv1WKxeOoODSDu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/djangoOrmgitproject" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e67d2dda-7cd3-4134-9c50-b35c05310288" name="Changes" comment="" />
+      <created>1631165034447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631165034447</updated>
+    </task>
+    <servers />
+  </component>
+</project>
