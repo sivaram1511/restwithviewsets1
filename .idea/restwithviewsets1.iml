@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Ormgitproject1" />
     <orderEntry type="module" module-name="djangoOrmgitproject" />
+    <orderEntry type="module" module-name="pythongitinit" />
   </component>
 </module>
