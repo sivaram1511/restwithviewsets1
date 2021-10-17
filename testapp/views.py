@@ -7,7 +7,7 @@ from rest_framework.generics import ListAPIView
 class EmployeeListApiView(ListAPIView):
     queryset=Employee.objects.all()
     serializer_class=EmployeeSerializer
-    print("get all records")
+    print("get all Employee  records ")
 
 # Create your views here.
 #class EmployeeCURDCBV(ModelViewSet):

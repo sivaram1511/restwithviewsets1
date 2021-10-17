@@ -26,6 +26,6 @@ urlpatterns = [
     #path('',include(router.urls)),
 
     path("api/",v1.EmployeeListApiView.as_view()),
-    path('get_api_token',v2.obtain_auth_token),
+    path('get-api-token',v2.obtain_auth_token,name='get-api-token'),
 
 ]
