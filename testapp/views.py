@@ -5,9 +5,16 @@ from rest_framework.viewsets import ModelViewSet
 from rest_framework.generics import ListAPIView
 
 class EmployeeListApiView(ListAPIView):
-    queryset=Employee.objects.all()
+    # queryset=Employee.objects.all()
+    # serializer_class=EmployeeSerializer
+    # print("get all Employee  records ")
     serializer_class=EmployeeSerializer
-    print("get all Employee  records ")
+    def get_queryset(self):
+        qs=Employee.objects.all()
+        name=self.request.GET.get('ename')
+        if name is not None:
+            qs=qs.filter(ename__icontains=name)
+        return qs
 
 # Create your views here.
 #class EmployeeCURDCBV(ModelViewSet):
