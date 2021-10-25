@@ -10,6 +10,7 @@ class EmployeeListApiView(ListAPIView):
     # print("get all Employee  records ")
     serializer_class=EmployeeSerializer
     def get_queryset(self):
+        print("Searching operation")
         qs=Employee.objects.all()
         name=self.request.GET.get('ename')
         if name is not None:
