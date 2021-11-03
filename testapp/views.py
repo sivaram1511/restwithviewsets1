@@ -16,6 +16,7 @@ class EmployeeListApiView(ListAPIView):
         if name is not None:
             qs=qs.filter(ename__icontains=name)
         return qs
+   print("get the name")     
 
 # Create your views here.
 #class EmployeeCURDCBV(ModelViewSet):
