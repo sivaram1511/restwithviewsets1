@@ -20,7 +20,7 @@ from testapp import views as v1
 from rest_framework.authtoken import views as v2
 #router=routers.DefaultRouter()
 #router.register('api',views.EmployeeCURDCBV)
-
+from rest_framework_jwt.views import obtain_jwt_token
 urlpatterns = [
     path('admin/', admin.site.urls),
     #path('',include(router.urls)),
